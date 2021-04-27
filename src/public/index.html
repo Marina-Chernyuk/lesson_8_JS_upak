@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Интернет-магазин</title>
+</head>
+<body>
+<div id="app">
+    <header class="center">
+        <div class="logo"><img src="img/logo.png" alt="logo"></div>
+        <div class="cart">
+            <filter-el></filter-el>
+            <cart ref="cart"></cart>
+        </div>
+    </header>
+    <main>
+        <article class="product-description center">
+            <img src="img/banner.png" alt="banner" class="product-description-pic">
+        </article>
+        <products ref="products"></products>
+        <error ref="error"></error>
+
+    </main>
+    <footer>
+        <section class="copyright">
+            <div class="center copyright__box">
+                <div class="copyright__box_text">&copy; 2021 Brand All Rights Reserved.</div>
+                <div class="copyright__box_network">
+                    <a href="#" class="copyright__box_network-social"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="copyright__box_network-social"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="copyright__box_network-social"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="#" class="copyright__box_network-social"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#" class="copyright__box_network-social"><i class="fab fa-google-plus-g"></i></a>
+                </div>
+            </div>
+        </section>
+    </footer>
+</div>
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</body>
+</html>
+

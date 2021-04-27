@@ -1,0 +1,72 @@
+[
+    {
+        "time": "27 Apr 2021, 8:29:26 pm",
+        "prod_name": "Полукомбинезон",
+        "action": "add"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:28 pm",
+        "prod_name": "Куртка Space",
+        "action": "add"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:30 pm",
+        "prod_name": "Жилетка на молнии",
+        "action": "add"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:32 pm",
+        "prod_name": "Кофта \"Для малышей\"",
+        "action": "add"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:33 pm",
+        "prod_name": "Кофта детская V-Baby",
+        "action": "add"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:45 pm",
+        "prod_name": "Кофта детская V-Baby",
+        "action": "remove"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:49 pm",
+        "prod_name": "Кофта \"Для малышей\"",
+        "action": "remove"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:50 pm",
+        "prod_name": "Жилетка на молнии",
+        "action": "remove"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:51 pm",
+        "prod_name": "Куртка Space",
+        "action": "remove"
+    },
+    {
+        "time": "27 Apr 2021, 8:29:51 pm",
+        "prod_name": "Полукомбинезон",
+        "action": "remove"
+    },
+    {
+        "time": "27 Apr 2021, 10:05:28 pm",
+        "prod_name": "Платье",
+        "action": "add"
+    },
+    {
+        "time": "27 Apr 2021, 10:05:29 pm",
+        "prod_name": "Кардиган V-Baby",
+        "action": "add"
+    },
+    {
+        "time": "27 Apr 2021, 10:05:40 pm",
+        "prod_name": "Кардиган V-Baby",
+        "action": "remove"
+    },
+    {
+        "time": "27 Apr 2021, 10:05:41 pm",
+        "prod_name": "Платье",
+        "action": "remove"
+    }
+]
